@@ -38,4 +38,6 @@ Of course, Jupyter Notebook must be installed on your laptop.
 
 ### Acknowledgments
 
-We want to thank all the crew at DataHarvest for their commitment, their help, their trust. Special Thanks to 
+We want to thank all the crew at DataHarvest for their commitment, their help, their trust. Special Thanks to Adriana Homolova, our moderator on this session!
+
+This session and code is inspired on [BearHunt](https://twitter.com/bearhunt11)'s brilliant work [here](https://medium.com/analytics-vidhya/tracking-ships-and-visualize-them-in-qgis-35c074810937)
