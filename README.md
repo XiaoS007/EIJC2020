@@ -1,6 +1,8 @@
 # EIJC2020 - Tracking vessels online with Python
 
-![DataHarvest Logo](https://dataharvest.eu/wp-content/uploads/2020/06/logos.png)
+![DataHarvest Logo](https://pbs.twimg.com/profile_banners/1123934898501373952/1594060240/1500x500)
+
+### The idea
 
 There are many websites that allow us to monitor and track vessels online : 
 
@@ -20,3 +22,20 @@ We think that Python can be very interesting for journalists to automatically co
 This repository contains two jupyter notebooks that explain how to scrape the data from a website, by first creating a simple script to do the job on one vessel (Vessel1), and then creating a function from this initial script in order to put it in a simple loop.
 
 
+### Libraries and prerequisites
+
+We use the following extra libraries for Python3 : 
+
+* Pandas
+* BeautifulSoup4
+* Requests
+
+As we want the code to remain simple, yet efficient and friendly user, we also use a GoogleSpreadheet but any other online spreadsheet with csv output can be used.
+
+Of course, Jupyter Notebook must be installed on your laptop.
+
+*This said*, If you want to efficientely start coding we recommand you to use a real IDE, a tool to code, such as [VSCodium](https://vscodium.com/).
+
+### Acknowledgments
+
+We want to thank all the crew at DataHarvest for their commitment, their help, their trust. Special Thanks to 
