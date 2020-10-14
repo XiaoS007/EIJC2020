@@ -42,7 +42,7 @@ We want to thank all the crew at DataHarvest for their commitment, their help, t
 
 This session and code is inspired on [BearHunt](https://twitter.com/bearhunt11)'s brilliant work [here](https://medium.com/analytics-vidhya/tracking-ships-and-visualize-them-in-qgis-35c074810937)
 
-Huge THANK YOU to [@Benjnr](https://github.com/benjnr) for all his good vibes, patience, fantastic skills in Python, and mentoring this tool! Peace man. 
+Huge THANK YOU to [@Benjnr](https://github.com/benjnr) for all his good vibes, patience, fantastic skills in Python, and for mentoring this tool! Peace man. 
 
 
 ![logo OpenFacto](https://openfacto.fr/wp-content/uploads/2019/05/BW-Padded.png)
